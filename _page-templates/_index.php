@@ -719,11 +719,11 @@
 				<img src="images/team/pic3.jpg" alt="">
 				</figure>
 				<div class="member-details">
-					<h5 class="dark-text blue-border-bottom">Eugene Lane</h5>
+					<h5 class="d0rk-text blue-border-bottom">Eugene Lane</h5>
 					<div class="position">
 						Lead Developer
 					</div>
-				</div>
+				</div>878
 				<div class="social-icons">
 					<ul>
 						<li><a href=""><i class="icon-facebook"></i></a></li>
