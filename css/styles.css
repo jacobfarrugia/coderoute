@@ -400,10 +400,13 @@ input:focus {
 -----------------------------------------*/
 
 .header {
-	background: rgba(13, 121, 206, 0.5);
+	xbackground: rgba(13, 121, 206, 0.5);
+	background: url('../images/backgrounds/bg_programmer.jpg');
 	min-height: 775px;
 	position: relative;
 	overflow: hidden;
+	background-position:center; 
+	
 }
 
 /*----  SECTION:  HOME > TOP BAR   ----*/
@@ -482,6 +485,11 @@ input:focus {
 	margin-top: 25%;
 	line-height: 65px;
 	z-index: 0;
+}
+
+
+h3.intro{
+	margin-top:5%;
 }
 
 /* Short Messages */

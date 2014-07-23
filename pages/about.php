@@ -19,7 +19,7 @@
 			<div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 				 Developing Amazing Things with Passion since 2002.
 			</div>
-		</div>
+		</div> 
 		
 		<!-- COLUMN 2 - BRIEF ABOUT THE COMPANY-->
 		<div class="col-lg-4 col-md-4 column">

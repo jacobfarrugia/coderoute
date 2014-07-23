@@ -4,10 +4,8 @@
 		<!-- HEADING -->
 		<h1 class="intro">Learn to do amazing stuff in 12 weeks</h1>
 		
-		<h3><br/><br/>
-			<br/>
+		<h3 class="intro">
 			{phpab strapline_1}Our mission is to provide people with all the skills to become an employable web developer{/phpab strapline_1}
-			
 		</h3>
 		
 		<?php /*
