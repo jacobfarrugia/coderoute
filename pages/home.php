@@ -6,7 +6,7 @@
 		
 		<h3><br/><br/>
 			<br/>
-			{phpab strapline_1}Our mission is to provide people with all the skills to become an employable web developer{/phpab}
+			{phpab strapline_1}Our mission is to provide people with all the skills to become an employable web developer{/phpab strapline_1}
 			
 		</h3>
 		
