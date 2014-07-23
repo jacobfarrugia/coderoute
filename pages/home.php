@@ -4,7 +4,11 @@
 		<!-- HEADING -->
 		<h1 class="intro">Learn to do amazing stuff in 12 weeks</h1>
 		
-		<h3><br/><br/>Our mission is to provide people with all the skills to become an employable web developer	</h3>
+		<h3><br/><br/>
+			<br/>
+			{phpab strapline_1}Our mission is to provide people with all the skills to become an employable web developer{phpab}
+			
+		</h3>
 		
 		<?php /*
 		<!-- CALL TO ACTION BUTTONS -->
