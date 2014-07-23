@@ -3,7 +3,7 @@
 require_once('phpab.php'); 
 
 
-$strapline_test = new phpab('strapline_1'); // set the name of the a/b test
+$strapline_test = new phpab('strapline_1', true); // set the name of the a/b test
 $strapline_test->add_variation('variation_1', '<p>We teach ya real good stuff</p>'); // add a variation
 $strapline_test->add_variation('variation_2', '<p>Better than learning to code from your mamma</p>'); // add a variation
 
