@@ -1,4 +1,4 @@
-<!-- SECTION HEADER --> fjkdlsjflds;afl;dsajfl;
+<!-- SECTION HEADER --> 
 	<div class="section-header">
 		
 		<!-- SECTION TITLE -->
