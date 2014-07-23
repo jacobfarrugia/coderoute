@@ -4,8 +4,11 @@ require_once('phpab.php');
 
 
 $strapline_test = new phpab('strapline_1', true); // set the name of the a/b test
-$strapline_test->add_variation('variation_1', '<p>We teach ya real good stuff</p>'); // add a variation
-$strapline_test->add_variation('variation_2', '<p>Better than learning to code from your mamma</p>'); // add a variation
+// $strapline_test->add_variation('variation_1', '<p>We teach ya real good stuff</p>'); // add a variation
+// $strapline_test->add_variation('variation_2', '<p>Better than learning to code from your mamma</p>'); // add a variation
+
+$strapline_test->add_variation('variation_3', '<p>Three months, forty hours per week, in-person training.<br/>You\'ll learn everything you need to get a job as a web developer or build your startup\'s app.</p>'); // add a variation
+
 
 ?>
 

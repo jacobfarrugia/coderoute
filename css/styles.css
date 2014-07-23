@@ -490,6 +490,7 @@ input:focus {
 
 h3.intro{
 	margin-top:5%;
+	line-height: 1.5em;
 }
 
 /* Short Messages */
