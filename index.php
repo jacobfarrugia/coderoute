@@ -6,7 +6,7 @@
 <meta name="keywords" content="Zerif, responsive, html, template, creative"/>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>coderoute - 12 weeks intensive web developer training</title>
+<title>coderoute developer training</title>
  
 <!-- =========================
  FAV AND TOUCH ICONS  
@@ -322,6 +322,20 @@
 <script src="js/smoothscroll.js"></script>
 <script src="js/jquery.vegas.min.js"></script>
 <script src="js/zerif.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53130449-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
 
 </body>
 </html>
