@@ -1014,7 +1014,7 @@ width: -webkit-calc(100% / 2);
 .features {
 	background: #FFFFFF;
 	text-align: left;
-	padding-bottom: 51px;
+	xx-padding-bottom: 51px;
 }
 .features .feature {
 	margin-bottom: 55px;
