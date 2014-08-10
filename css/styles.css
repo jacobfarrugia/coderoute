@@ -82,7 +82,7 @@ a:hover {
 	color: #cb4332;
 }
 p {
-    margin: 0;
+    margin: 0 0 1em 0;
 }
 .full-width {
 	width: 100%;
@@ -513,7 +513,7 @@ h3.intro{
 -----------------------------------------*/
 
 .focus {
-	padding-bottom: 100px;
+	xx-padding-bottom: 100px;
 	overflow: hidden;
 	background: #272727;
 }
@@ -789,7 +789,6 @@ width: -webkit-calc(100% / 2);
 .about-us {
 	background: #272727;
 	color: #FFF;
-	xx-padding-bottom: 100px;
 }
 .about-us .big-intro {
 	text-align: right;
