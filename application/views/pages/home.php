@@ -101,8 +101,8 @@
 <section class="separator-one">
 <div class="color-overlay">
 	
-	<h3 class="container text">Coderoute’s 12 week intensive coding camp will teach you the right stuff - equipping you with the skills to fill this gap and get the tech job of your dreams</h3>
-	
+	<h2 class="container text">Coderoute’s 12 week intensive coding camp will teach you the right stuff.</h2>
+	<p class="container text">We equip our students the skills that are needed in Industry - we won’t waste your time with stuff you don’t need.</p>
 </div>
 </section>  <!-- / END SEPARATOR -->
 
@@ -257,7 +257,8 @@
 <section class="separator-one">
 <div class="color-overlay">
 	
-	<h3 class="container text">About Coderoute </h3>
+	<h2 class="container text">About Coderoute </h2>
+	<!-- <p class="container text">Small class sizes</p> -->
 	
 </div>
 </section>  <!-- / END SEPARATOR -->
@@ -286,9 +287,9 @@
 		</div>
 	
 		<div class="col-lg-3 col-sm-3 focus-box">
-			<h5 class="green-border-bottom">Real world skills</h5>
+			<h5 class="green-border-bottom">Small Class Sizes</h5>
 			<p>
-				 Everything you learn will be tailored to industry – we won’t waste your time with stuff you don’t need.
+				 Our classes are limited to 10 students, working in pairs. This size allows our instructors to really focus on your individual development ensuring you get the most out of every day.   
 			</p>
 		</div>
 		
