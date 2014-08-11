@@ -249,6 +249,23 @@
 
 
 
+
+<!-- =========================
+   SEPARATOR ONE      
+============================== -->
+
+<section class="separator-one">
+<div class="color-overlay">
+	
+	<h3 class="container text">About Coderoute </h3>
+	
+</div>
+</section>  <!-- / END SEPARATOR -->
+
+
+
+
+
 <!-- =========================
    FOCUS SECTION   
 ============================== -->
@@ -276,9 +293,9 @@
 		</div>
 		
 		<div class="col-lg-3 col-sm-3 focus-box">
-			<h5 class="green-border-bottom">BLAHHH</h5>
+			<h5 class="green-border-bottom">In London's Tech Hub</h5>
 			<p>
-				Something else
+				We're in the middle of London's Technology scene... blahh
 			</p>
 		</div>
 		
