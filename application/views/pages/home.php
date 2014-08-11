@@ -258,7 +258,7 @@
 <div class="color-overlay">
 	
 	<h2 class="container text">About Coderoute </h2>
-	<!-- <p class="container text">Small class sizes</p> -->
+	<p class="container text">We're 100% focused on web development and have created an enviroment that will ensure you reach your potential.</p> 
 	
 </div>
 </section>  <!-- / END SEPARATOR -->
