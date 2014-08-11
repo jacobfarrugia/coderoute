@@ -181,7 +181,7 @@
 				</div>
 				<h5>GIT</h5>
 				<p>
-					Ever wondered how teams of developers work on code together without overwirting each others code... it's tools like GIT that make it possible.  
+					Ever wondered how teams of developers work on code together without overwirting eachothers code... it's tools like GIT that make it possible.  
 				</p>
 			</div>
 			<!-- / END FEATURE -->

@@ -14,8 +14,7 @@
 | path to your installation.
 |
 */
-//$config['base_url']	= 'http://localhost/coderoute/';
-$config['base_url']	= 'http://coderoute.co.uk/';
+$config['base_url']	= 'http://localhost/coderoute/';
 
 /*
 |--------------------------------------------------------------------------

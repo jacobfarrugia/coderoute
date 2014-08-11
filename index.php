@@ -1,5 +1,5 @@
 <?php
-print_r($_SERVER['HTTP_HOST']);
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
@@ -18,7 +18,16 @@ print_r($_SERVER['HTTP_HOST']);
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-	define('ENVIRONMENT', 'development');
+	switch ( $_SERVER['HTTP_HOST'] )
+	{
+		case 'localhost':	
+			define('ENVIRONMENT', 'development');
+		break;
+		
+		default:
+			define('ENVIRONMENT', 'production');
+		break;
+	}
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
