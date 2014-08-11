@@ -33,7 +33,7 @@
 <link rel="stylesheet" href="<?=base_url();?>css/responsive.css">
 
 
-<?php /*
+
 <!-- WEBFONT -->
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple' rel='stylesheet' type='text/css'>
 
@@ -46,7 +46,7 @@
  
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
- * */ ?>
+ 
 </head>
 
 

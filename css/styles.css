@@ -347,13 +347,18 @@ input:focus {
 -----------------------------------------*/
 
 /*** SECTION HEADERS ***/
-.focus,.works,.about-us,.features,.packages,.products,.testimonial,.contact-us {
+.focus,.works,.about-us,.features,.packages,.products,.not-just-tech,.contact-us,.the-course {
 	padding-top: 50px;
 }
 .section-header {
 	text-align: center;
-	padding-bottom: 75px;
+	padding-bottom: 25px;
 }
+
+.section-sub-header {
+	margin-bottom: 75px;	
+}
+
 .section-header h2 {
 	padding-bottom: 10px;
 	line-height: 40px;
@@ -603,6 +608,7 @@ h3.intro{
 	background: #14a168;
 	padding: 50px 0;
 }
+
 .separator-one .green-btn {
 	background: #14a168;
 }
@@ -611,12 +617,22 @@ h3.intro{
 }
 .separator-one .text {
 	color: #FFF;
-	
 	padding: 0;
 	xx-max-width: 800px;
 	margin-bottom: 20px;
 	text-align: center;
 	
+}
+
+
+/*---------------------------------------
+ **   SECTION:  SEPARATOR TWO         -----
+-----------------------------------------*/
+
+.separator-two{
+	background: #F6F6F6;
+	padding: 50px 0;
+	text-align: center;
 }
 
 /*---------------------------------------
@@ -1036,8 +1052,34 @@ width: -webkit-calc(100% / 2);
 	font-size: 14px;
 }
 
+
+
 /*---------------------------------------
- **   SECTION:  Pacages               -----
+ **   SECTION:  The Course              -----
+-----------------------------------------*/
+#the-course{
+	background: url('../images/backgrounds/bg_programmer.jpg');
+	min-height: 300px;
+}
+
+#the-course h3.intro{
+	margin-top:13%;	
+}
+
+.the-course {
+	background: #FFFFFF;
+	text-align: left;
+}
+
+.features .feature h5 {
+	font-weight: bold;
+	line-height: 28px;
+	color: #404040;
+}
+
+
+/*---------------------------------------
+ **   SECTION:  Packages               -----
 -----------------------------------------*/
 
 .packages {
@@ -1331,13 +1373,13 @@ width: -webkit-calc(100% / 2);
 }
 
 /*----------------------------------------
- **   SECTION:  TESTIMONIAL            -----
+ **   SECTION:  NOT JUST TECH            -----
 -----------------------------------------*/
-.testimonial {
-	background: #dbbf56;
+.not-just-tech {
+	background: #F6F6F6;
 	padding-bottom: 90px;
 }
-#client-feedbacks .feedback-box {
+.feedback-box {
 	background: #FFFFFF;
 	padding: 25px;
 	margin: 13px;

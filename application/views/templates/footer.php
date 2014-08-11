@@ -60,8 +60,8 @@
 <!-- SCRIPTS -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.scrollTo.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/jquery.nav.js"></script>
+
+<script src="xjs/jquery.nav.js"></script>
 <script src="js/jquery.knob.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/smoothscroll.js"></script>

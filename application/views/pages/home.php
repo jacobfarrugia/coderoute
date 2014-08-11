@@ -303,7 +303,7 @@
 		<div class="col-lg-3 col-sm-3 focus-box ">
 			<h5 class="green-border-bottom">Our Founders</h5>
 			<p>
-				Coderoute is the brainchild of Jacob Farrugia and Tom Leahy. Jake has spent years and years working right at the heart of the tech scene for a variety of start-ups, blue-chip financial organisations and multinationals. 
+				Jake Farrugia has been working right at the heart of the tech scene working as developer, consultant and CTO for a variety of start-ups, blue-chip financial organisations and multinationals. 
 			</p>
 			<p>
 				Tom is a an analyst by trade and among his other projects has spent a lot of time looking at the evolution and development of the UK’s tech sector and the impact it is having on London and the rest of the UK.
