@@ -145,7 +145,7 @@
 				</div>
 				<h5>PHP5 & Zend Framework</h5>
 				<p>
-					 
+					 PHP is the world's most popular web programming language and paired with Zend will have you building Enterprise quality web-applications in no time.    
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -153,11 +153,11 @@
 			<!-- FEATURE -->
 			<div class="feature">
 				<div class="feature-icon">
-					<i ><img src="images/icon-html.png"/></i>
+					<i><img src="images/icon-html.png"/></i>
 				</div>
 				<h5>HTML5, CSS3 & Javascript</h5>
 				<p>
-					 
+					 The trio of tools used to make websties look good and useable... 
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -169,7 +169,7 @@
 				</div>
 				<h5>MySQL</h5>
 				<p>
-					 
+					Databases sit behind almost every website and MySQL is one of the most popular. 
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -181,7 +181,7 @@
 				</div>
 				<h5>GIT</h5>
 				<p>
-					
+					Made a mistake, deleted a file or want to look at code you overwrote 3 months ago, GIT manages it all & is invaluable to developers. 
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -193,11 +193,12 @@
 			<!-- FEATURE -->
 			<div class="feature">
 				<div class="feature-icon">
+					<i class="icon-computer-network-streamline"></i>	
 					
 				</div>
 				<h5>Real world projects</h5>
 				<p>
-					By working on real world projects for real clients you'll come out with a portoflio of work that you can use to wow proprective employers. 
+					By working on real world projects for real clients you'll come out with a portoflio of work that you can use to wow prospective employers. 
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -205,11 +206,11 @@
 			<!-- FEATURE -->
 			<div class="feature">
 				<div class="feature-icon">
-					<i class="icon-handle-streamline-vector"></i>
+					<i class="icon-speech-streamline-talk-user"></i>
 				</div>
 				<h5>Workshops & Talks from industry pros</h5>
 				<p>
-					 
+					 We have our friends from some of London's hottest startups, from Developers to Online Marketers come in and give weekly talks. 
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -217,11 +218,11 @@
 			<!-- FEATURE -->
 			<div class="feature">
 				<div class="feature-icon">
-					<i class="icon-speech-streamline-talk-user"></i>
+					<i class="icon-list-thumbnails"></i>
 				</div>
-				<h5>Agile, Scrum & Lean working practices</h5>
+				<h5>Agile development & Lean Startup</h5>
 				<p>
-					 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+					 These working practices are at the heart of everything we do, and just like the software side of things, you'll live & breath them throughout the course.
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -229,7 +230,7 @@
 			<!-- FEATURE -->
 			<div class="feature">
 				<div class="feature-icon">
-					<i class="icon-speech-streamline-talk-user"></i>
+					<i class="icon-fontawesome-webfont-292"></i>
 				</div>
 				<h5>CV clinics & Interview coaching </h5>
 				<p>
