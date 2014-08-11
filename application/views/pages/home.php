@@ -145,7 +145,7 @@
 				</div>
 				<h5>PHP5 & Zend Framework</h5>
 				<p>
-					 PHP is the world's most popular web programming language and paired with Zend will have you building Enterprise quality web-applications in no time.    
+					 PHP is the world's most popular web programming language used by the likes of Facebook. Paired with Zend, you'll be building Enterprise quality web-applications in no time.    
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -157,7 +157,7 @@
 				</div>
 				<h5>HTML5, CSS3 & Javascript</h5>
 				<p>
-					 The trio of tools used to make websties look good and useable... 
+					 The fundamentals for building websites. You'll learn to use HTML & CSS to build responsive, user friendly sites made interactive with Javascript  & JQuery.
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -169,7 +169,7 @@
 				</div>
 				<h5>MySQL</h5>
 				<p>
-					Databases sit behind almost every website and MySQL is one of the most popular. 
+					Databases sit behind almost every website and as the tech world becomes increasingly data driven you'll find these skills essential to your job as a web developer.  
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -181,7 +181,7 @@
 				</div>
 				<h5>GIT</h5>
 				<p>
-					Made a mistake, deleted a file or want to look at code you overwrote 3 months ago, GIT manages it all & is invaluable to developers. 
+					Ever wondered how teams of developers work on code together without overwirting each others code... it's tools like GIT that make it possible.  
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -193,7 +193,7 @@
 			<!-- FEATURE -->
 			<div class="feature">
 				<div class="feature-icon">
-					<i class="icon-computer-network-streamline"></i>	
+					<i class="icon-world"></i>	
 					
 				</div>
 				<h5>Real world projects</h5>
@@ -210,7 +210,7 @@
 				</div>
 				<h5>Workshops & Talks from industry pros</h5>
 				<p>
-					 We have our friends from some of London's hottest startups, from Developers to Online Marketers come in and give weekly talks. 
+					 Our friends from some of London's hottest startups, working in Software, Design & Online Marketing visit regularly to share their knowledge & experience. 
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -222,7 +222,7 @@
 				</div>
 				<h5>Agile development & Lean Startup</h5>
 				<p>
-					 These working practices are at the heart of everything we do, and just like the software side of things, you'll live & breath them throughout the course.
+					 These working practices are at the heart of the course, and just like the software side of things, you'll live & breathe them - MVP, Pair programming & TDD will become second nature in everything you do.
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -234,7 +234,7 @@
 				</div>
 				<h5>CV clinics & Interview coaching </h5>
 				<p>
-					 We work closely with some of London's top recruitment firms to provide full support service to help you get that first tech job.
+					 We work closely with some of London's top recruitment firms to provide a full support service to help you get that first tech job.
 				</p>
 			</div>
 			<!-- / END FEATURE -->
