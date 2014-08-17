@@ -16,7 +16,7 @@ class Pages extends CI_Controller {
 		
 		
 		$data['page'] = $page;
-		$data['nav'] = array('home'=>'Home','the-course'=>'The Course','about'=>'About','admissions'=>'Admissions','faq'=>'FAQ');
+		$data['nav'] = array('home'=>'Home','the-course'=>'The Course','about'=>'About','faq'=>'FAQ','contact'=>'Contact');
 		$data['title'] = ucfirst($page); // Capitalize the first letter
 	
 		$this->load->view('templates/header', $data);

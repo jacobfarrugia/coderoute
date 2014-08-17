@@ -7,8 +7,13 @@
     
 }
 
+
+
+
 @media (min-width: 768px) and (max-width: 1024px) {
-    
+    body{
+    	background: red;
+    }
     
     /* TOP BAR ELEMENTS */    
 	.responsive-logo {
@@ -33,6 +38,14 @@
 		margin-bottom: 15px;
 		margin-top: 0 !important;
 	}
+	
+	/* GENERIC */
+	.page_intro h1{
+		margin-top:22%;	
+		margin-bottom: 20px
+	}
+
+	
      
      /* HOME */
 	.intro {
@@ -219,6 +232,10 @@
     .custom-button {
         padding: 10px 18px;
     }
+    
+    
+   
+    
      h1 {
         font-weight: normal;
     }
@@ -260,6 +277,14 @@
     h3 {
         font-size: 1.7rem;
     }
+    
+     /* GENERIC */
+	.page_intro h1{
+		margin-top:100%;	
+		margin-bottom: 20px
+	}
+	
+	
     
     .intro {
         margin-top: 50%;

@@ -35,7 +35,7 @@
 
 
 <!-- WEBFONT -->
-<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple|PT+Sans+Narrow' rel='stylesheet' type='text/css'>
 
 <!--[if lt IE 9]>
 			<script src="<?=base_url();?>js/html5shiv.js"></script>
@@ -47,6 +47,13 @@
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
  
+ 
+
+
+
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+
+
 </head>
 
 
@@ -79,9 +86,14 @@
 					$c = ($k==$page) ? 'current':'';
 					
 					$k=($k=='home')?'':$k;
+					
+					
 				?>
 						<li class="<?=$c;?>"><a href="<?=base_url();?><?=$k;?>"><?=$n;?></a></li>
 				<?php } ?>
+				
+				<li class="apply">
+					<a class="typeform-share link" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a></li>
 				
 				
 				

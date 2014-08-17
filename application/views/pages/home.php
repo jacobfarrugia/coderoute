@@ -1,10 +1,10 @@
 	
 	<div class="container">
 		
-		<h1 class="intro">Learn to do amazing stuff in 12 weeks</h1>
+		<h1 class="intro">Learn to do really amazing stuff in 12 weeks</h1>
 		
 		<h3 class="intro">
-			Learn to be a junior web developer from scratch on our 12 week coding camp and join the UK’s tech revolution
+			We'll teach you to be a junior web developer from scratch on our 12 week coding camp and give you the skills to join the UK’s tech revolution
 		</h3>
 		
 	</div>
@@ -26,7 +26,7 @@
 		<div class="col-lg-4 col-md-4 column">
 			<div class="big-intro">
 				“There just aren’t enough computer scientists in the UK. And we need real computer scientists who do software engineering and programming”  
-					<span>- A Tale of Tech City, June 2014</span> 
+					<span>- A Tale of Tech City, June 2012</span> 
 			</div>
 		</div> 
 				
@@ -70,9 +70,9 @@
 					<div class="skill-count">
 					
 					</div>
-					<h6>20%</h6>
-					<p>
-						 Forecast growth of technology roles in the London over the next 5 years (i made this one up)
+					<h6>46,000</h6>
+					<p> 
+						 Number of new jobs in London's tech sector over the next decade
 					</p>
 				</li>
 				
@@ -101,8 +101,8 @@
 <section class="separator-one">
 <div class="color-overlay">
 	
-	<h2 class="container text">Coderoute’s 12 week intensive coding camp will teach you the right stuff.</h2>
-	<p class="container text">We equip our students the skills that are needed in Industry - we won’t waste your time with stuff you don’t need.</p>
+	<h2 class="container text">Coderoute’s 12 week intensive coding camp will teach you the right stuff</h2>
+	<p class="container text">We equip our students the skills that are needed in industry - we won’t waste your time with stuff you don’t need!</p>
 </div>
 </section>  <!-- / END SEPARATOR -->
 
@@ -145,7 +145,7 @@
 				</div>
 				<h5>PHP5 & Zend Framework</h5>
 				<p>
-					 PHP is the world's most popular web programming language used by the likes of Facebook. Paired with Zend, you'll be building Enterprise quality web-applications in no time.    
+					 PHP is the world's most popular web programming language used by the likes of Facebook. Paired with Zend, you'll be building enterprise quality web-applications in no time.    
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -181,7 +181,7 @@
 				</div>
 				<h5>GIT</h5>
 				<p>
-					Ever wondered how teams of developers work on code together without overwirting eachothers code... it's tools like GIT that make it possible.  
+					Ever wondered how teams of developers work on code together without overwriting eachothers code... it's tools like GIT that make it possible.  
 				</p>
 			</div>
 			<!-- / END FEATURE -->
@@ -208,7 +208,7 @@
 				<div class="feature-icon">
 					<i class="icon-speech-streamline-talk-user"></i>
 				</div>
-				<h5>Workshops & Talks from industry pros</h5>
+				<h5>Workshops & talks from industry pros</h5>
 				<p>
 					 Our friends from some of London's hottest startups, working in Software, Design & Online Marketing visit regularly to share their knowledge & experience. 
 				</p>
@@ -232,7 +232,7 @@
 				<div class="feature-icon">
 					<i class="icon-fontawesome-webfont-292"></i>
 				</div>
-				<h5>CV clinics & Interview coaching </h5>
+				<h5>CV clinics & interview coaching </h5>
 				<p>
 					 We work closely with some of London's top recruitment firms to provide a full support service to help you get that first tech job.
 				</p>
@@ -257,8 +257,8 @@
 <section class="separator-one">
 <div class="color-overlay">
 	
-	<h2 class="container text">About Coderoute </h2>
-	<p class="container text">We're 100% focused on web development and have created an enviroment that will ensure you reach your potential.</p> 
+ 	<h2 class="container text">Why Coderoute?</h2> 
+	<p class="container text">We're 100% focused on web development and have created an enviroment that will ensure you reach your potential</p> 
 	
 </div>
 </section>  <!-- / END SEPARATOR -->
@@ -296,17 +296,18 @@
 		<div class="col-lg-3 col-sm-3 focus-box">
 			<h5 class="green-border-bottom">In London's Tech Hub</h5>
 			<p>
-				We're in the middle of London's Technology scene... blahh
+				We're in the middle of London's Technology scene in East London which makes attending events and networking with industry peers a part of your daily life at Coderoute. And among other things, you won't need to go far for a great flat white. 
 			</p>
 		</div>
 		
 		<div class="col-lg-3 col-sm-3 focus-box ">
 			<h5 class="green-border-bottom">Our Founders</h5>
 			<p>
-				Jake Farrugia has been working right at the heart of the tech scene working as developer, consultant and CTO for a variety of start-ups, blue-chip financial organisations and multinationals. 
+				Jake Farrugia has been working right at the heart of the tech scene for the last 16 years as a developer, consultant and CTO for a variety of start-ups, blue-chip financial organisations and multinationals. 
 			</p>
+				
 			<p>
-				Tom is a an analyst by trade and among his other projects has spent a lot of time looking at the evolution and development of the UK’s tech sector and the impact it is having on London and the rest of the UK.
+				Tom Leahy is a economic analyst and consultant with a specialist interest in the UK tech sector and its impact on London and the rest of the UK.
 			</p>
 		</div>
 	</div>	
@@ -329,7 +330,7 @@
 	<div class="container text">
 		
 		<h3 class="white-text" >
-			Ready to get involved...
+			Ready to get involved...?
 		</h3>
 
 		<a href="" class="btn btn-primary custom-button red-btn">Apply Now</a>

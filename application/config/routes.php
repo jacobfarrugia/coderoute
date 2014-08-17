@@ -46,7 +46,7 @@ $route['404_override'] = '';
 
 
 //$routes['^string$'] = "welcome/specific_method";
-$route['([a-z\_-]+)$'] = "pages/view/the-course";
+$route['([a-z\_-]+)$'] = "pages/view/$1";
 
 
 
