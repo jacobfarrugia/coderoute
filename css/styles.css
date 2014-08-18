@@ -175,7 +175,7 @@ h6 {
 }
 .red-btn:hover {
 	color: #FFF;
-	background: #cb4332;
+	background: #e96656;
 }
 .green-btn:hover {
 	color: #FFF;
@@ -201,7 +201,10 @@ h6 {
 		background-color: #49aa15!important;
 }
 
-
+a.btn-inline{
+	color: #fff;
+	text-decoration:underline;
+}
 /*---------------------------------------
  **   COLORS                         -----
 -----------------------------------------*/
@@ -231,7 +234,7 @@ h6 {
 
 /** FOR TEXTS AND ICON FONTS **/
 .red-text {
-	color: #78b635;
+	color: #78b635 !Important;
 }
 .green-text {
 	color: #34d293;
@@ -665,6 +668,7 @@ h3.intro{
 	margin-bottom: 20px;
 	text-align: center;
 }
+
 
 
 /*---------------------------------------
