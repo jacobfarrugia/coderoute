@@ -66,7 +66,7 @@
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/smoothscroll.js"></script>
 <script src="js/jquery.vegas.min.js"></script>
-<script src="js/zerif.js"></script>
+<script src="js/coderoute.js"></script>
 
 <?/*
 <script>

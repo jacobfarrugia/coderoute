@@ -92,11 +92,8 @@
 						<li class="<?=$c;?>"><a href="<?=base_url();?><?=$k;?>"><?=$n;?></a></li>
 				<?php } ?>
 				
-				<li class="apply">
-					<a class="typeform-share link" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a></li>
-				
-				
-				
+				<li >
+					<a class="apply typeform-share link" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a></li>
 			</ul>
 			</nav>
 		</div>

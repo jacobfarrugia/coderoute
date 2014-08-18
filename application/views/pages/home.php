@@ -324,18 +324,21 @@
    SEPARATOR ONE      
 ============================== -->
 
-<section class="separator-one">
+<section class="separator-one red-bg">
 	<div class="color-overlay">
 	
 	<div class="container text">
 		
-		<h3 class="white-text" >
-			Ready to get involved...?
-		</h3>
-
-		<a href="" class="btn btn-primary custom-button red-btn">Apply Now</a>
+		
+		
+			<h3 class="white-text" >
+				Ready to get involved...?
+			</h3>
 	
-	</div>
+			<a href="" class="btn btn-primary custom-button green-btn">Apply Now</a>
+
+	
+	</div>	
 	
 </div>
 </section>  <!-- / END SEPARATOR -->
