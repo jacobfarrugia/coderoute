@@ -282,7 +282,7 @@
 				We only employ tutors with the right kind of real world experience, the right skills and the ability to transmit this to our students.  
 			</p>
 			<p>
-				 All our tutors are recruited directly from tech firms, so you can be assured that they are completely up to date with the latest best practice and industry standards
+				 All our tutors are recruited directly from tech firms, so you can be assured that they are completely up to date with the latest best practice and industry standards.
 			</p>		
 		</div>
 	

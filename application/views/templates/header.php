@@ -67,7 +67,7 @@
 
 
 <!-- TOP BAR -->
-	<div id="main-nav" class="navbar navbar-inverse bs-docs-nav" role="banner">
+	<div role="banner" class="navbar navbar-inverse bs-docs-nav fixed" id="main-nav">
 		<div class="container">
 			<div class="navbar-header responsive-logo">
 				<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
