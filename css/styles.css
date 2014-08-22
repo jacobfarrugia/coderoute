@@ -50,11 +50,20 @@ i {
 	vertical-align: middle;
 }
 ul, ol {
-padding-left: 0 !important; 
+	padding-left: 0 !important; 
 }
 li {
     list-style: none;
 }
+ul.list{
+	margin-left:2em;
+}
+
+ul.list li{
+	list-style:disc;
+}
+
+
 /* Selection colours (easy to forget) */
 ::-moz-selection {
 	background: #FC6D6D;

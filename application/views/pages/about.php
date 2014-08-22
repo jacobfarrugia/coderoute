@@ -12,25 +12,16 @@
 
 
 
-
-<!-- =========================
-   FEATURES SECTION   
-============================== -->
 <section class="features" >
 <div class="container">
-		
-		
-	<!-- SECTION HEADER -->
-	
-	
+			
 	<div >
 		
 		<p>Jake and Tom can’t claim that the idea for a coding bootcamp is completely their own. The first coding camps were established in the USA a few years ago and now there are upwards of 25 organisations there who will take your money and 12 weeks later have transformed you in to a junior web developer. </p>
 		
-		
 		<p>These courses are concentrated in San Francisco and New York, which are the US’s major tech industry hubs, but on a global level, London is now becoming one of the most important centres of innovation for tech:</p>
 		
-		<ul>
+		<ul class="list">
 			<li>During the period 2009-12 the number of tech/digital companies incorporated in London increased by 76%</li>	
 			<li>The number of people employed in the sector grew from 499,000 to 582,000, which is 2.7  times faster than the average</li> 
 			<li>Research done by Oxford Economics has predicted that London’s tech sector will grow by 5.1% p.a. over the next 10 years, creating an extra £12bn of economic output and another 46,000 jobs.</li>
@@ -44,19 +35,13 @@
 
 		<p>The course we have put together, the enthusiasm of everyone at Coderoute and the growing demand for coders, particularly PHP developers, means enrolling on a Coderoute camp is the best way to kick off a great career in the tech industry.</p> 
 
-		
 	</div>
 	 
 	 
-	 
 </div>
-</section>  <!-- / END SEPARATOR -->
+</section> 
 
 
-
-<!-- =========================
-   SEPARATOR ONE      
-============================== -->
 
 <section class="separator-three">
 <div class="container">
@@ -66,7 +51,7 @@
 	<p>This is why we will be offering a scholarship programme to young Londoners who can demonstrate their ambition and enthusiasm for the tech sector, but might not have the means to pay for a Coderoute course. Full details of the programme will be published shortly.</p>
 	
 </div>
-</section>  <!-- / END SEPARATOR -->
+</section> 
 
 
 
