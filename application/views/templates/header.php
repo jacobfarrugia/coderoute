@@ -76,7 +76,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<a href="./" class="navbar-brand">
+				<a href="<?=base_url();?>" class="navbar-brand">
 				<img src="<?=base_url();?>images/logo.png" alt="Coderoute">
 				</a>
 			</div>

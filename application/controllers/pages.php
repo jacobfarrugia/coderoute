@@ -70,7 +70,7 @@ class Pages extends CI_Controller {
 		$this->load->library('email');
 
 		$this->email->from($this->input->post('email'), $this->input->post('first-name') . ' ' . $this->input->post('last-name') );
-		$this->email->to('getinvolved@codroute.co.uk');
+		$this->email->to('getinvolved@coderoute.co.uk');
 		
 		$this->email->subject('Enquiry');
 		$this->email->message($this->enquiry_message());
