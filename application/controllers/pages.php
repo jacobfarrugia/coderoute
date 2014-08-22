@@ -4,10 +4,12 @@ class Pages extends CI_Controller {
 	
 	
 	public function __construct()
-     {
-            parent::__construct();
-            // Your own constructor code
+    {
+		parent::__construct();
+     
 		$this->data['nav'] = array('home'=>'Home','the-course'=>'The Course','about'=>'About','faq'=>'FAQ','contact'=>'Contact');
+		
+		 $this->load->helper(array('form', 'url'));
 	}
 
 	public function view($page = 'home')
@@ -19,9 +21,7 @@ class Pages extends CI_Controller {
 			show_404();
 		}
 		
-		
 		$this->load->helper('url');
-		
 		
 		$this->data['page'] = $page;
 		
@@ -36,15 +36,61 @@ class Pages extends CI_Controller {
 	
 	function enquiry()
     {
-    	die('sdfsdfsfd');
-        $this->load->helper(array('form', 'url'));
+    	
+       
 
         $this->load->library('form_validation');
 
-            $this->form_validation->set_rules('first-name', 'Imie', 'required|min_length[5]|max_length[25]|required|alpha'); 
-            $this->form_validation->set_rules('last-name', 'Nazwisko', 'required|min_length[5]|max_length[25]|required|alpha'); 
-            $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
-			$this->form_validation->set_rules('message', 'Message', 'required|max_length[30]');  
+        $this->form_validation->set_rules('first-name','First Name', 'required|min_length[2]|max_length[25]|required|alpha'); 
+        $this->form_validation->set_rules('last-name', 'Last Name', 'required|min_length[2]|max_length[25]|required|alpha'); 
+        $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
+		$this->form_validation->set_rules('message', 'Message', 'required|max_length[30]');  
+		
+		if ($this->form_validation->run() == FALSE)
+		{
+			
+			// $this->form_validation->set_message('first-name', 'Tell Us');
+			
+			$this->data['enquiry_status'] = false;
+			$this->view('contact');
+		}
+		else
+		{
+			// $this->load->view('formsuccess');
+			$this->enquiry_email();
+			$this->data['enquiry_status'] = true;
+			$this->view('contact');
+		}
+		
+	}
+	
+	
+	function enquiry_email()
+	{
+		$this->load->library('email');
+
+		$this->email->from($this->input->post('email'), $this->input->post('first-name') . ' ' . $this->input->post('last-name') );
+		$this->email->to('getinvolved@codroute.co.uk');
+		
+		$this->email->subject('Enquiry');
+		$this->email->message($this->enquiry_message());
+		
+		$this->email->send();
+		
+		// echo $this->email->print_debugger();
+	}
+	
+	function enquiry_message()
+	{
+		$message ="";
+		
+		$message .= $this->input->post('first-name') . ' ' . $this->input->post('last-name');
+		$message .= "\n";
+		$message .= $this->input->post('email');
+		$message .= "\n";
+		$message .= $this->input->post('message');
+		
+		return $message;	
 	}
 	
 	

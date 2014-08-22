@@ -416,7 +416,7 @@
                 }
 
                 if(conf.scrollToTopOnError) {
-                    $window.scrollTop($form.offset().top - 20);
+                    $window.scrollTop($form.offset().top - 80);
                 }
             }
 

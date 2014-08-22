@@ -397,7 +397,7 @@ div.form-error {
 -----------------------------------------*/
 
 /*** SECTION HEADERS ***/
-.focus,.works,.about-us,.features,.packages,.products,.not-just-tech,.contact-us,.the-course,.faq {
+.focus,.works,.about-us,.features,.packages,.products,.not-just-tech,.contact-us,.the-course,.faq, .success-msg {
 	padding: 50px 0;
 }
 .section-header {
@@ -918,7 +918,7 @@ h3.intro{
 }
 
 .contact-us {
-	background: rgba(0, 0, 0, 0.5);
+	background: #171717;
 	padding-bottom: 95px;
 }
 .contact-us .input-box,textarea {
@@ -941,6 +941,10 @@ div.form-success {
     line-height: 180%;
     margin: 0 15px 22px 15px; 
     padding: 6px 12px;
+}
+
+.success-msg{
+	margin-bottom:200px;
 }
 
 
