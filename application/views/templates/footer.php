@@ -8,10 +8,7 @@
 	
 	<!-- COMPANY EMAIL-->
 	<div class="col-md-2 company-details">
-		<div class="icon-top green-text">
-		<i class="icon-fontawesome-webfont-329"></i>
-		</div>
-		 getinvolved@codroute.co.uk
+		 
 	</div>
 	
 	
@@ -40,17 +37,25 @@
 	
 	<!-- SOCIAL ICON AND COPYRIGHT -->
 	<div class="col-lg-3 col-sm-3 copyright">
+		
+		<p><a href="mailto:getinvolved@coderoute.co.uk">getinvolved@coderoute.co.uk</a></p>
+		 
+		 
+		 
+		 <p>©2013 coderoute<br/>All rights reserved.</p>
+		<?php /*
 		<ul class="social">
+			
 			<li><a href=""><i class="icon-facebook"></i></a></li>
 			<li><a href=""><i class="icon-twitter-alt"></i></a></li>
 			<li><a href=""><i class="icon-linkedin"></i></a></li>
-			<?php /*
 			<li><a href=""><i class="icon-behance"></i></a></li>
 			<li><a href=""><i class="icon-dribbble"></i></a></li>
-			 */
-			 ?>
+			 
 		</ul>
-		 ©2013 coderoute
+		 */
+			 ?>
+		 
 	</div>
 </div> <!-- / END CONTAINER -->
 
