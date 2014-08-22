@@ -68,6 +68,28 @@
 <script src="js/jquery.vegas.min.js"></script>
 <script src="js/coderoute.js"></script>
 
+<?php 
+	if($page=='contact'){
+?>
+
+<script src="js/form-validator/jquery.form-validator.js"></script>
+<script>
+	
+var $messages = $('#error-container');
+	
+$.validate({
+  validateOnBlur : false, // disable validation when input looses focus
+  scrollToTopOnError : true, // Set this property to true if you have a long form
+  errorMessagePosition : 'top',
+  
+});
+
+</script>
+
+<?php
+}
+?>
+
 <?/*
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

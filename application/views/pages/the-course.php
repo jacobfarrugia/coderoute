@@ -165,17 +165,21 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 	
 	
 	<div class="row">
-		<div class="col-lg-3 col-sm-1">
-			<h2 class="fees">Tuition fees £6500</h2>
+		<div class="col-lg-3 col-md-3 col-sm-12 ">
+			<h2 class="fees">Tuition Fees £6500</h2>
+			<h6>All inclusive. There's no fine print.</h6>
 		</div>
 		
-		<div class="col-lg-9 col-sm-1">
+		<div class="col-lg-9 col-md-9 col-sm-12 ">
 			
 			<h3 >For this, we will provide you with 40 hours of tailored tuition every week for 12 weeks and entry in to one of the most exciting and fastest growing industries on the planet.</h3>
+			
 			
 			<a class="typeform-share link btn btn-primary custom-button red-btn" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply Now</a>
 			
 		</div>
+		
+		
 	</div>	
 	
 	

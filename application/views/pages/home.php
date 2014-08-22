@@ -264,9 +264,6 @@
 </section>  <!-- / END SEPARATOR -->
 
 
-
-
-
 <!-- =========================
    FOCUS SECTION   
 ============================== -->
@@ -332,8 +329,8 @@
 			Ready to get involved...?
 		</h3>
 
-		<a class="btn btn-primary custom-button green-btn typeform-share link" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply Now</a></li>
-		<p>Or if you want to know more check out <a class="btn-inline" href="<?=base_url();?>contact">get in touch</a> </p>
+		<a class="btn btn-primary custom-button red-btn typeform-share link" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply Now</a></li>
+		<p>Or if you want to know more <a class="btn-inline" href="<?=base_url();?>contact">get in touch</a> </p>
 	</div>	
 	
 </div>
