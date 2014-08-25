@@ -7,55 +7,25 @@
 	
 	
 	<!-- COMPANY EMAIL-->
-	<div class="col-md-2 company-details">
-		 
-	</div>
-	
-	
-	<!-- COMPANY ADDRESS-->
-	<div class="col-md-5 company-details">
-		<?php /*
-		<div class="icon-top red-text">
-		    <i class="icon-fontawesome-webfont-302"></i>
-		</div>
-		PO Box 16122 Collins Street West, Victoria 8007 Australia
+	<div class="col-md-9 company-details">
+		<? /*
+		 <ul >
+			<li><a href="">blahh</a></li>
+			<li><a href="">bhahahsdf</a></li>
+		</ul>
+
 		 */ ?>
 	</div>
 	
-		
-	
-	<!-- COMPANY PHONE NUMBER -->
-	<div class="col-md-2 company-details">
-	<?php /*	<div class="icon-top blue-text">
-		<i class="icon-fontawesome-webfont-101"></i>
-		</div>
-		+613 0000 0000
-	 * */ 
-	 ?>
-	</div>
+
 	 
 	
 	<!-- SOCIAL ICON AND COPYRIGHT -->
 	<div class="col-lg-3 col-sm-3 copyright">
 		
 		<p><a href="mailto:getinvolved@coderoute.co.uk">getinvolved@coderoute.co.uk</a></p>
-		 
-		 
-		 
-		 <p>©2013 coderoute<br/>All rights reserved.</p>
-		<?php /*
-		<ul class="social">
-			
-			<li><a href=""><i class="icon-facebook"></i></a></li>
-			<li><a href=""><i class="icon-twitter-alt"></i></a></li>
-			<li><a href=""><i class="icon-linkedin"></i></a></li>
-			<li><a href=""><i class="icon-behance"></i></a></li>
-			<li><a href=""><i class="icon-dribbble"></i></a></li>
-			 
-		</ul>
-		 */
-			 ?>
-		 
+		<p>©2013 coderoute<br/>All rights reserved.</p>
+		
 	</div>
 </div> <!-- / END CONTAINER -->
 

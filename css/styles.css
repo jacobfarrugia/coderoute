@@ -79,7 +79,7 @@ ul.list li{
 }
 
 a {
-	color: #78b635;
+	color: #14a168;
 	-webkit-transition: all 700ms;
 	        transition: all 700ms;
 }
@@ -409,6 +409,16 @@ div.form-error {
 .focus,.works,.about-us,.features,.packages,.products,.not-just-tech,.contact-us,.the-course,.faq, .success-msg {
 	padding: 50px 0;
 }
+
+#about, #faq, #contact{
+	min-height: 250px;	
+}
+
+#the-course{
+	min-height: 300px;	
+}
+
+
 .section-header {
 	text-align: center;
 	padding-bottom: 25px;
@@ -438,7 +448,6 @@ div.form-error {
 -----------------------------------------*/
 
 .header {
-	xbackground: rgba(13, 121, 206, 0.5);
 	min-height: 100px;
 	position: relative;
 	overflow: hidden;
@@ -524,14 +533,16 @@ div.form-error {
 }
 
 /*----  SECTION:  HOME > INTRO AND SHORT MSGS   ----*/
-.intro {
-xtext-align: center;
-	color: #FFF;
-	margin-top: 25%;
-	line-height: 65px;
-	z-index: 0;
+.intro{
+	color: #fff;
+	line-height: .6em;
 }
 
+#home h1 {
+    line-height: 65px;
+    margin-top: 25%;
+    z-index: 0;
+}
 
 h3.intro{
 	margin-top:5%;
@@ -546,7 +557,6 @@ h3.intro{
 .short-text {
 	margin: auto;
 	text-align: center;
-	color: rgba(255,255,255,0.7);
 	text-transform: uppercase;
 }
 
@@ -793,7 +803,7 @@ h3.intro{
 -----------------------------------------*/
 #the-course{
 	background: url('../images/backgrounds/bg_programmer.jpg');
-	min-height: 300px;
+	
 }
 
 #the-course h3.intro{
@@ -806,7 +816,6 @@ h3.intro{
 -----------------------------------------*/
 #about{
 	background: url('../images/backgrounds/bg_programmer.jpg');
-	min-height: 250px;
 }
 
 
@@ -815,7 +824,6 @@ h3.intro{
 -----------------------------------------*/
 #faq{
 	background: url('../images/backgrounds/bg_programmer.jpg');
-	min-height: 250px;
 }
 
 .faq ul li{
@@ -923,7 +931,6 @@ h3.intro{
 
 #contact{
 	background: url('../images/backgrounds/bg_programmer.jpg');
-	min-height: 250px;
 }
 
 .contact-us {

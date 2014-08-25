@@ -3,7 +3,7 @@
 	<div class="container page_intro">
 		<!-- SECTION TITLE -->
 		<!-- <h1 class="introx">About Coderoute</h1> -->
-		<h1 class="introx">Frequently Asked Questions</h1>
+		<h1 class="intro">Frequently Asked Questions</h1>
 
 	</div>
 	

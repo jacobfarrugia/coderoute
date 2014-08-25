@@ -3,7 +3,7 @@
 	<div class="container page_intro">
 		<!-- SECTION TITLE -->
 		<!-- <h1 class="introx">About Coderoute</h1> -->
-		<h1 class="introx">Who are these guys...?</h1>
+		<h1 class="intro">Who are we...</h1>
 
 	</div>
 	
@@ -27,13 +27,13 @@
 			<li>Research done by Oxford Economics has predicted that London’s tech sector will grow by 5.1% p.a. over the next 10 years, creating an extra £12bn of economic output and another 46,000 jobs.</li>
 		</ul>
 	
-		<p>You only have to look at some of the major success stories like Tweetdeck, Mind Candy and YPlan that started in London to see these numbers in action. All this means demand for developers and coders in London is already exceeding supply and with the growth in jobs, the situation is only going to get worse. </p>
+		<p>You only have to look at some of the major success stories like Tweetdeck, Mind Candy and YPlan that started in London to see these numbers in action. All this means demand for developers in London is already exceeding supply and with the growth in jobs, the situation is only going to get worse. </p>
 		
 		<p>This is why we have set up Coderoute – to help satisfy this demand for qualified, well taught developers. A recent survey by Tech London Advocates found “the single biggest impediment to London’s tech future is a shortage of talent”. Without these skilled people the expansion of the tech scene in London could start to slow or move elsewhere as companies and start-ups struggle to find staff.</p> 
 
-		<blockquote>“{tech} entrepreneurs’ biggest difficulty is finding staff” (The Economist, 21-06-2014)</blockquote>
+		<blockquote><h3 class="big-intro">“{tech} entrepreneurs’ biggest difficulty is finding staff” </h3>The Economist, 21-06-2014</blockquote>
 
-		<p>The course we have put together, the enthusiasm of everyone at Coderoute and the growing demand for coders, particularly PHP developers, means enrolling on a Coderoute camp is the best way to kick off a great career in the tech industry.</p> 
+		<p>The course we have put together, the enthusiasm of everyone at Coderoute and the growing demand for developers, particularly PHP developers, means enrolling on a Coderoute camp is the best way to kick off a great career in the tech industry.</p> 
 
 	</div>
 	 
