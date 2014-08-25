@@ -2,8 +2,8 @@
 <html lang="en"> 
 <head>
 <meta charset="UTF-8">
-<meta name="description" content="Beautiful Responsive Animated OnePage Template" />
-<meta name="keywords" content="Zerif, responsive, html, template, creative"/>
+<meta name="description" content="" />
+<meta name="keywords" content="learn to code, web development, code school"/>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>coderoute developer bootcamp</title>
@@ -32,6 +32,9 @@
 <link rel="stylesheet" href="<?=base_url();?>css/styles.css">
 <link rel="stylesheet" href="<?=base_url();?>css/responsive.css">
 
+
+<!-- FB TRACKING -->
+<meta property="fb:admins" content="100006220965627" />
 
 
 <!-- WEBFONT -->
