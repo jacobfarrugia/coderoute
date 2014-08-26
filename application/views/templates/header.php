@@ -1,3 +1,8 @@
+<?php
+
+$online = false;
+
+?>
 <!doctype html>
 <html lang="en"> 
 <head>
@@ -37,8 +42,11 @@
 <meta property="fb:admins" content="100006220965627" />
 
 
+
 <!-- WEBFONT -->
+<?php if ($online){ ?> 
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple|PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+<?php } ?>
 
 <!--[if lt IE 9]>
 			<script src="<?=base_url();?>js/html5shiv.js"></script>
@@ -47,15 +55,12 @@
 
 <!-- JQUERY -->
  
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
- 
- 
-
-
-
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
-
+<?php if($online){ ?>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> -->
+	<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<?php }else{ ?> 
+	<script src="<?=base_url();?>js/jquery.min.js"></script>
+<?php } ?>
 
 </head>
 
@@ -92,11 +97,11 @@
 					
 					
 				?>
-						<li class="<?=$c;?>"><a href="<?=base_url();?><?=$k;?>"><?=$n;?></a></li>
+					<li class="<?=$c;?>"><a href="<?=base_url();?><?=$k;?>"><?=$n;?></a></li>
 				<?php } ?>
 				
 				<li >
-					<a class="apply typeform-share link" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a></li>
+					<a class="apply typeform-share link" href="https://coderoute.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a></li>
 			</ul>
 			</nav>
 		</div>

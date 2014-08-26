@@ -23,6 +23,7 @@
  
  	#home h3.intro {
 		margin-top: 10px;
+		margin-bottom:5%;
 	}
     
     .intro{
@@ -40,11 +41,9 @@
 	#the-course .intro{
 		font-size:20px;
 		margin-bottom:20px;
+		margin-top:20%;
 	}
-	
-	
-	
-    
+
     .bs-navbar-collapse {
 		border: 0;
 	}
@@ -73,20 +72,35 @@
 	.responsive-logo img {
         width: 70%;
     }
+ 
     
     #main-nav {
         min-height: 50px;
     }
+    
+    #home h1{
+    	font-weight:bold;
+    }
+    
+    #home h3{
+    	font-size:1.8rem;
+    }
 	
 	.intro {
 		margin-top: 40%;
-		line-height: 3.438rem !important;
-		font-size: 2.813rem;
+		line-height: 2.4rem !important;
+		font-size: 2.2rem;
 	}
-    
+	
+	
+	#the-course h3.intro {
+		margin-top:22%;	
+	}
+	
     .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
-	padding-top: 60px;
-}
+		padding-top: 60px;
+	}
+	
     .buttons {
 	    margin-bottom: 0;
 	    margin-top: 30px;
@@ -94,12 +108,9 @@
      
     .custom-button {
         padding: 10px 18px;
-    }
+    }   
     
-    
-   
-    
-     h1 {
+    h1 {
         font-weight: normal;
     }
     
@@ -130,8 +141,8 @@
     }
     
     .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
-	padding-top: 50px;
-}
+		padding-top: 50px;
+	}
     
     h1 {
         font-weight: normal;
@@ -147,10 +158,15 @@
 		margin-bottom: 20px
 	}
 	
+	#the-course h3.intro {
+		margin-top:28%;	
+	}
 	
-    
+	#home h1{
+		margin-top: 35%;
+	}
+	    
     .intro {
-        margin-top: 50%;
 		line-height: 3.1rem !important;
 		font-size: 2.1rem;
 	}

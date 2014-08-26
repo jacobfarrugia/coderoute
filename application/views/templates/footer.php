@@ -5,20 +5,15 @@
 <footer>
 <div class="container">
 	
-	
 	<!-- COMPANY EMAIL-->
 	<div class="col-md-9 company-details">
 		<? /*
 		 <ul >
-			<li><a href="">blahh</a></li>
-			<li><a href="">bhahahsdf</a></li>
+			<li><a href="xxx">xxx</a></li>
+			<li><a href="xxx">xxx</a></li>
 		</ul>
-
 		 */ ?>
 	</div>
-	
-
-	 
 	
 	<!-- SOCIAL ICON AND COPYRIGHT -->
 	<div class="col-lg-3 col-sm-3 copyright">
@@ -35,8 +30,6 @@
 <!-- SCRIPTS -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.scrollTo.min.js"></script>
-
-<script src="xjs/jquery.nav.js"></script>
 <script src="js/jquery.knob.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/smoothscroll.js"></script>
@@ -65,7 +58,7 @@ $.validate({
 }
 ?>
 
-
+<?php if($online){ ?>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -74,8 +67,8 @@ $.validate({
 
   ga('create', 'UA-53130449-1', 'auto');
   ga('send', 'pageview');
-
 </script>
+<?php } ?>
 
 
 
