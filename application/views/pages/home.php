@@ -1,10 +1,10 @@
 	
 	<div class="container">
 		
-		<h1 class="intro">Learn to be web developer from scratch in 12 weeks</h1>
+		<h1 class="intro">Learn to do amazing stuff in 12 weeks</h1>
 		
 		<h3 class="intro">
-			Learn the skills you need to get a job and join the UK’s tech revolution
+			Our 12 weeking coding camp will give you the skills to join the uk's tech revolution
 		</h3>
 		
 	</div>
@@ -62,7 +62,7 @@
 					</div>
 					<h6>£24, 000</h6>
 					<p>
-						 The average starting salary for a junior web developer in the UK
+						 The average starting salary for a junior web developer in the UK. Senior PHP developers in London can earn up to £65,000 
 					</p>
 				</li>
 				
