@@ -1,10 +1,10 @@
 	
 	<div class="container">
 		
-		<h1 class="intro">Learn to do really amazing stuff in 12 weeks</h1>
+		<h1 class="intro">Learn to be web developer from scratch in 12 weeks</h1>
 		
 		<h3 class="intro">
-			We'll teach you to be a junior web developer from scratch on our 12 week coding camp and give you the skills to join the UK’s tech revolution
+			Learn the skills you need to get a job and join the UK’s tech revolution
 		</h3>
 		
 	</div>
