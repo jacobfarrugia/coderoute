@@ -72,7 +72,7 @@
 					</div>
 					<h6>£65, 000</h6>
 					<p>
-						 Senior PHP developers in London can earn up to this amount. 
+						 Senior PHP developers in London can easily earn up to this, but the route you take the sky's the limit. 
 					</p>
 				</li>
 				
