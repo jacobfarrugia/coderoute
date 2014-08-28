@@ -2,7 +2,7 @@
 	<div class="container page_intro">
 		<!-- SECTION TITLE -->
 		<!-- <h1 class="introx">About Coderoute</h1> -->
-		<h1 class="introx">Get in touch</h1>
+		<h1 class="intro">Get in touch</h1>
 
 	</div>
 	

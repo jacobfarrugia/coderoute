@@ -4,11 +4,11 @@
   	#home{
 		min-height: 525px !important;
 	}
-  
+  /*
 	#home h1.intro {
 		margin-top: 18%;
 	}
-	
+	*/
 	#home h3.intro {
 		margin-top: 5%;
 	}      
@@ -80,6 +80,7 @@
     
     #home h1{
     	font-weight:bold;
+    	
     }
     
     #home h3{
@@ -87,14 +88,8 @@
     }
 	
 	.intro {
-		margin-top: 40%;
 		line-height: 2.4rem !important;
 		font-size: 2.2rem;
-	}
-	
-	
-	#the-course h3.intro {
-		margin-top:22%;	
 	}
 	
     .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
@@ -140,12 +135,13 @@
         font-size: 1.3rem;
     }
     
-    .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
+   /* .focus,.works,.about-us,.features, .our-team,.packages,.products .color-overlay,.testimonial,.contact-us {
 		padding-top: 50px;
-	}
+	}*/
     
-    h1 {
+    .page_intro h1 {
         font-weight: normal;
+        font-size: 3em;
     }
     
     h3 {
@@ -154,22 +150,21 @@
     
      /* GENERIC */
 	.page_intro h1{
-		margin-top:100%;	
-		margin-bottom: 20px
+		margin-top: 90px;
+		margin-bottom: 10px
 	}
 	
-	#the-course h3.intro {
-		margin-top:28%;	
-	}
 	
 	#home h1{
-		margin-top: 35%;
+		margin-top:40%;	
+	
 	}
 	    
     .intro {
 		line-height: 3.1rem !important;
 		font-size: 2.1rem;
 	}
+		
 
 	.client-list ul li {
 		display: block;

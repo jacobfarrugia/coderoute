@@ -17,8 +17,9 @@
 	
 	<div >	
 	
-	<p>We’ve designed the course with the explicit purpose of getting our students employed, which is exactly why PHP was chosen as the primary language. PHP is one of the easier languages to learn, so we can make a lot of progress very quickly and by the end of the course you'll be at a higher level of competence than other languages like Ruby, therefore making you more employable.</p>
-
+	<p>We’ve designed the course with the explicit purpose of getting our students employed, we won't send you out in to the world with a degree in computer science, but you will have the skill set that is needed to get your first web developer job.</p>
+		
+	<p>PHP is the primary language we teach as it's one of the easier languages to learn, using it, we can make a lot of progress very quickly so by the end of the course you'll be at a higher level of competence than other languages like Ruby, making you more employable.</p>
 	
 	<p>To ensure our students are properly prepared for working in real development teams, the environment, course structure and activities throughout the course are modelled on industry practices, so you’ll feel more like you’re in a startup than a classroom.</p>
 	

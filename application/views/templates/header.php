@@ -1,6 +1,6 @@
 <?php
 
-$online = true;
+include "online.php";
 
 ?>
 <!doctype html>
