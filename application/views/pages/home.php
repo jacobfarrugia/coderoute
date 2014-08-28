@@ -32,12 +32,11 @@
 				
 		<!-- COLUMN 2 -->
 		<div class="col-lg-4 col-md-4 column">
-			<p >
-				The UK’s tech sector is riding a wave of innovation and expansion: since 2009 the rate of employment growth in London’s tech scene has tripled; venture capital funding for start-ups has also tripled; and Oxford Economics think tech employment growth will average 5% p.a. over the next decade – that’s faster than San Francisco.
-			</p>
-			<p>
-				However, there is a big problem facing the entrepreneurs and start-ups who are working hard to exploit the opportunities out there: the massive shortage of employable web developers. These are the people on the front line of the tech revolution who will be our generation’s Steve Jobs, Larry Page or Elon Musk. But at the moment there just isn’t enough of them out there and the UK education system isn’t producing a steady stream of employable graduates.
-			</p>
+			<p>The UK’s tech sector is riding a wave of innovation and expansion, with employment growth in London’s tech companies set to outstrip San Francisco over the next decade.</p>	
+
+			<p>However, there is a big problem facing the sector: the massive shortage of employable web developers. These are the people on the front line of the tech revolution who will be our generation’s Steve Jobs, Larry Page or Elon Musk. But at the moment there just isn’t enough of them out there.</p>
+
+			<p>If you are ready to join the revolution, fill the gap and embark on a new career in the most exciting industry in the world then a Coderoute coding course is the answer to your prayers!</p>
 		</div>
 		
 		
