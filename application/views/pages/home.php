@@ -4,7 +4,7 @@
 		<h1 class="intro">Learn to do amazing stuff in 12 weeks</h1>
 		
 		<h3 class="intro">
-			Our 12 week coding camp will give you the skills to join the uk's tech revolution
+			Our 12 week coding camp will give you the skills to join the UK's tech revolution
 		</h3>
 		
 	</div>
@@ -34,7 +34,7 @@
 		<div class="col-lg-4 col-md-4 column">
 			<p>The UK’s tech sector is riding a wave of innovation and expansion, with employment growth in London’s tech companies set to outstrip San Francisco over the next decade.</p>	
 
-			<p>However, there is a big problem facing the sector: the massive shortage of employable web developers. These are the people on the front line of the tech revolution who will be our generation’s Steve Jobs, Larry Page or Elon Musk. But at the moment there just isn’t enough of them out there.</p>
+			<p>However, there is a big problem facing the sector: the massive shortage of employable web developers. These are the people on the front line of the tech revolution who will be our generation’s Mark Zuckerberg, Larry Page or Elon Musk. But at the moment there just isn’t enough of them.</p>
 
 			<p>If you are ready to join the revolution, fill the gap and embark on a new career in the most exciting industry in the world then a Coderoute coding course is the answer to your prayers!</p>
 		</div>
@@ -69,9 +69,9 @@
 					<div class="skill-count">
 					
 					</div>
-					<h6>£65, 000</h6>
+					<h6>£400 per day</h6>
 					<p>
-						 Senior PHP developers in London can easily earn up to this, but the route you take the sky's the limit. 
+						 The going rate for experienced freelance PHP developers in London. 
 					</p>
 				</li>
 				
@@ -285,7 +285,7 @@
 		<div class="col-lg-3 col-sm-3 focus-box">
 			<h5 class="green-border-bottom">Our Tutors</h5> 
 			<p> <!-- FOCUS DESCRIPTION -->
-				We only employ tutors with the right kind of real world experience, the right skills and the ability to transmit this to our students.  
+				We only employ tutors with loads of real world experience, the right skills and the ability to transmit this to our students.  
 			</p>
 			<p>
 				 All our tutors are recruited directly from tech firms, so you can be assured that they are completely up to date with the latest best practice and industry standards.
@@ -302,7 +302,7 @@
 		<div class="col-lg-3 col-sm-3 focus-box">
 			<h5 class="green-border-bottom">In London's Tech Hub</h5>
 			<p>
-				We're in the middle of London's Technology scene in East London which makes attending events and networking with industry peers a part of your daily life at Coderoute. And among other things, you won't need to go far for a great flat white. 
+				We're in the middle of London's technology scene in East London which makes attending events and networking with industry peers a part of your daily life at Coderoute. And among other things, you won't need to go far for a great flat white. 
 			</p>
 		</div>
 		

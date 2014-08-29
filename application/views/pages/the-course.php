@@ -17,14 +17,13 @@
 	
 	<div >	
 	
-	<p>We’ve designed the course with the explicit purpose of getting our students employed, we won't send you out in to the world with a degree in computer science, but you will have the skill set that is needed to get your first web developer job.</p>
+	<p>We've designed the course with the explicit purpose of getting our students employed. We won't send you out in to the world with a degree in computer science, but you will have the skill set needed to get your first web developer job.</p>
 		
-	<p>PHP is the primary language we teach as it's one of the easier languages to learn, using it, we can make a lot of progress very quickly so by the end of the course you'll be at a higher level of competence than other languages like Ruby, making you more employable.</p>
+	<p>PHP is the primary language we teach as it's one of the easier languages to learn and is in high demand. By using it we can make a lot of progress very quickly, so by the end of the course you'll be at a higher level of competence than other languages like Ruby, making you more employable.</p>
 	
-	<p>To ensure our students are properly prepared for working in real development teams, the environment, course structure and activities throughout the course are modelled on industry practices, so you’ll feel more like you’re in a startup than a classroom.</p>
+	<p>To ensure our students are properly prepared for working in real development teams, the environment, course structure and activities throughout the course are modelled on industry practices, so you'll feel more like you're in a startup than a classroom.</p>
 	
-	
-	
+
 	</div>	
 	
 		
@@ -33,40 +32,35 @@
 		<div class="col-lg-3 col-sm-3 focus-box">
 			<h5 class="green-border-bottom">Weeks 1-2</h5> 
 			<p>
-				The focus of the first 2 weeks is  web development fundamentals using HTML5, CSS3 & Javascript. You’ll get a solid grounding in a host of other stuff like Version Control with Git, Frameworks & algorithms in Javascript along with an intro to the Apache web server, all of  which will provide the basis for the next stage of the course.  
+				The focus of the first 2 weeks is  web development fundamentals using HTML5, CSS3 & Javascript. You'll get a solid grounding in a host of other stuff like Version Control with Git, Frameworks & algorithms in Javascript along with an intro to the Apache web server, all of  which will provide the basis for the next stage of the course.  
 			</p>
 		</div>
 	
 		<div class="col-lg-3 col-sm-3 focus-box">
 			<h5 class="green-border-bottom">Weeks 3-5</h5>
 			<p>
-				 This is where things really come together as you start programming in PHP & MySQL to build the web applications which power the website technologies learnt during the first 2 weeks. 
-You’ll learn about Object Oriented Programming, MVC architecture, AJAX and APIs. By the end of this, you’ll have a solid grounding in the full web stack.   
+				This is where things really come together as you start programming in PHP & MySQL to build the web applications which power the website technologies learnt during the first 2 weeks. 
+				You'll learn about Object Oriented Programming, MVC architecture, AJAX and APIs. By the end of this, you'll have a solid grounding in the full web stack.   
 			</p>
 		</div>
 		
 		<div class="col-lg-3 col-sm-3 focus-box">
 			<h5 class="green-border-bottom">Weeks 6-10</h5>
-			<p>From this point on we build on all the skills and knowledge you’ve gained by introducing more complex technologies and concepts, to the point where you’ll feel comfortable walking in to a web development job. Zend framework, AngularJS, Test Driven Development, LESS, Coffeescript and Heroku are just some of the things you’ll learn during this phase.
+			<p>
+				From this point on we build on all the skills and knowledge you've gained by introducing more complex technologies and concepts, to the point where you'll feel comfortable walking in to a web development job. Zend framework, AngularJS, Test Driven Development, LESS, Coffeescript and Heroku are just some of the things you'll learn during this phase.
 			</p>
-				
 		</div>
 		
 		<div class="col-lg-3 col-sm-3 focus-box ">
 			<h5 class="green-border-bottom">Weeks 11-12</h5>
 			<p>
-				This is where you pull it all together and work on a final project that you’ll demonstrate to potential employers on hiring day.
+				In the final 2 weeks you will be working on a final project that will be demonstrated to potential employers on hiring day.
 			</p>
-			
 		</div>
 	</div>	
 		
 </div>
-</section>
-
-
-
-
+</section>  <!-- / END SEPARATOR -->
 
 
 <section class="separator-three">
@@ -74,14 +68,10 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 	
 	<h2 class="dark-text">Real World Projects</h2>
 	<p >Central to the Coderoute experience is the opportunity to work on real world projects. In any industry and especially in the tech sector, it is the experience of working on real projects, getting real feedback from real clients that will make the difference when you start looking for that all important first job.</p>
-	<p >It is this that marks Coderoute graduates out from the crowd. Ensuring you will leave the course with a portfolio of work that will grab any employer’s attention, whether that’s Google, Facebook or a two man, one bedroom start-up.
-</p> 
+	<p >It is this that marks Coderoute graduates out from the crowd. Ensuring you will leave the course with a portfolio of work that will grab any employer's attention, whether that's Google, Facebook or a two man, one bedroom start-up.</p> 
 	
 </div>
 </section>  <!-- / END SEPARATOR -->
-
-
-
 
 
 <section class="focus" >
@@ -92,12 +82,9 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 		<p>You need a full-on, full-time, intensive “boot camp” style course that drops you in at the deep end and teaches you to swim at the same time.</p> 
 		<p>It is only an intensive experience, where you are surrounded by like-minded people; being challenged to learn new skills; and are exposed to new things on a daily basis that can take you on the journey from newbie to employable junior developer in 12 weeks.</p> 	
 	
-	 
 </div>
 </section>  <!-- / END SEPARATOR -->
 	 
-
-
 
 
 <!-- =========================
@@ -108,11 +95,9 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 <div class="color-overlay container">
 
 
-		<h2 class=" text dark-text">We’re not just about the tech</h2>
-		<p >The technical coding skills are really important, but they are not the be-all and end-all. We will also take care of all those other bits and pieces that you’ll need to get a job. So by the end of the course you’ll have the hard and soft skills and enough contacts in your virtual black book to give you the best chance possible of getting your first step on the ladder.</p>
-		
-		
-		
+	<h2 class=" text dark-text">We're not just about the tech</h2>
+	<p >The technical coding skills are really important, but they are not the be-all and end-all. We will also take care of all those other bits and pieces that you'll need to get a job. So by the end of the course you'll have the hard and soft skills and enough contacts in your virtual black book to give you the best chance possible of getting your first step on the ladder.</p>
+			
 		
 	<div class="row">
 		
@@ -146,14 +131,8 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 		</div>
 	</div>		
 	
-	
-	
-
-
-
 </div>
 </section>  <!-- / END SEPARATOR -->
-
 
 
 
@@ -163,7 +142,6 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 
 <section class="separator-one">
 <div class="color-overlay container" >
-	
 	
 	<div class="row">
 		<div class="col-lg-3 col-md-3 col-sm-12 ">
@@ -175,18 +153,11 @@ You’ll learn about Object Oriented Programming, MVC architecture, AJAX and API
 			
 			<h3 >For this, we will provide you with 40 hours of tailored tuition every week for 12 weeks and entry in to one of the most exciting and fastest growing industries on the planet.</h3>
 			
-			
 			<a class="typeform-share link btn btn-primary custom-button red-btn" href="https://jacob4.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply Now</a>
 			
 		</div>
 		
-		
 	</div>	
-	
-	
 	
 </div>
 </section>  <!-- / END SEPARATOR -->
-
-
-
