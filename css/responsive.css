@@ -4,6 +4,15 @@
   	#home{
 		min-height: 525px !important;
 	}
+	
+	#home{
+		background: url('../images/backgrounds/bg_programmer-mid.jpg');
+		background-position:center center;
+	}
+
+
+
+
   /*
 	#home h1.intro {
 		margin-top: 18%;
@@ -21,9 +30,16 @@
 
 @media (max-width: 800px) {
  
+ 
+ 
  	#home h3.intro {
 		margin-top: 10px;
 		margin-bottom:5%;
+	}
+	
+	#home{
+		background: url('../images/backgrounds/bg_programmer-sml.jpg');
+		background-position:center center;
 	}
     
     .intro{
@@ -69,6 +85,14 @@
 	html {
         font-size: 70%;
     }
+    
+    #home{
+		background: url('../images/backgrounds/bg_programmer-x-sml.jpg');
+		background-position:center center;
+	}
+    
+	
+	
 	.responsive-logo img {
         width: 70%;
     }
@@ -129,6 +153,8 @@
     html {
         font-size: 62.5%;
     }
+    
+  
     
     
     body {
