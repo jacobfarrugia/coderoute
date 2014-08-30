@@ -145,7 +145,7 @@
 	
 	<div class="row">
 		<div class="col-lg-3 col-md-3 col-sm-12 ">
-			<h2 class="fees">Tuition Fees £6500</h2>
+			<h2 class="fees">Tuition Fees £8000</h2>
 			<h6>All inclusive. There's no fine print.</h6>
 		</div>
 		
