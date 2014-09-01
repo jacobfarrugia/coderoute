@@ -45,7 +45,7 @@
 		</li>
 		<li>
 			<h4 class="dark-text">How much does the course cost?</h4>
-			<p>The Coderoute 12 week coding camp costs £6,500.</p>
+			<p>The Coderoute 12 week coding camp costs £8,000.</p>
 		</li>
 		<li>
 			<h4 class="dark-text">Can you guarantee me a job?</h4>
