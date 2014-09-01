@@ -1,7 +1,7 @@
 	
 	<div class="container">
 		
-		<h1 class="intro">Learn to do amazing stuff in 12 weeks</h1>
+		<h1 class="intro">Learn to do code in 12 weeks</h1>
 		
 		<h3 class="intro">
 			Our 12 week coding camp will give you the skills to join the UK's tech revolution
