@@ -11,7 +11,7 @@ include "online.php";
 <meta name="keywords" content="learn to code, web development, code school"/>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>coderoute developer bootcamp</title>
+<title>coderoute bootcamp | learn to code</title>
  
 <!-- =========================
  FAV AND TOUCH ICONS  
