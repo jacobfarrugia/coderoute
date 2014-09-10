@@ -70,6 +70,8 @@ $.validate({
 
 //THIS IS TO DISABLE ANALYTICS COOKIE TRACKING 
 //AND SHOULD BE REMOVED ONCE TOM & I HAVE DONE IT
+
+/*
 ?>
 
 <script>
@@ -92,6 +94,8 @@ function gaOptout() {
 <a href="javascript:gaOptout()" stye="color:#ccc">Click here to opt-out of Google Analytics</a>
 
 <?php
+*/
+
 //***********************************************
 ?>
 
