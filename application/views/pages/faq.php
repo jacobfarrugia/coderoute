@@ -62,7 +62,7 @@
 
 		<li>
 			<h4 class="dark-text" >Any other questions?</h4>
-			<p>Just <a href="<?=base_url();?>/contact" >get in touch</a>.</p>
+			<p>Just <a href="<?=base_url();?>contact" >get in touch</a>.</p>
 		</li>
 	</ul>
 	

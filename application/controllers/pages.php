@@ -92,7 +92,90 @@ class Pages extends CI_Controller {
 		
 		return $message;	
 	}
+
+
+
+
+
+
+
+
+	function application()
+    {
+        $this->load->library('form_validation');
+
+        $this->form_validation->set_rules('full-name','Full Name', 'required|min_length[2]|max_length[25]|required'); 
+        $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
+        $this->form_validation->set_rules('phone','Phone', 'required|min_length[8]|max_length[25]'); 
+        $this->form_validation->set_rules('course-date','Course Date', 'required'); 
+		$this->form_validation->set_rules('reason', 'Reason', 'required|min_length[4]');
+		$this->form_validation->set_rules('experience', 'Experience', 'required|min_length[4]');  
+		
+
+		if ($this->form_validation->run() == FALSE)
+		{
+			
+			
+			$this->data['enquiry_status'] = false;
+			$this->view('apply');
+		}
+		else
+		{
+			
+			$this->load->database();	
+			// $this->load->view('formsuccess');
+			$this->application_email();
+			$this->db->insert('applications', $_POST); 
+
+			$this->data['enquiry_status'] = true;
+			$this->view('apply');
+		}
+		
+	}
 	
+	
+
+	function application_email()
+	{
+		$this->load->library('email');
+
+		$this->email->from($this->input->post('email'), $this->input->post('full-name') );
+		$this->email->to('getinvolved@coderoute.co.uk');
+		
+		$this->email->subject('Application');
+		$this->email->message($this->application_message());
+		
+		$this->email->send();
+		
+		// echo $this->email->print_debugger();
+	}
+
+
+	
+	function application_message()
+	{
+		$message ="";
+		
+		$message .= $this->input->post('full-name');
+		$message .= "\n";
+		$message .= $this->input->post('email');
+		$message .= "\n";
+		$message .= $this->input->post('phone');
+		$message .= "\n";
+		$message .= $this->input->post('course-date');
+		$message .= "\n";
+		$message .= $this->input->post('reason');
+		$message .= "\n";
+		$message .= $this->input->post('experience');
+		$message .= "\n";
+		$message .= $this->input->post('how-hear');
+		
+		return $message;	
+	}
+
+
+
+
 	
 }
 

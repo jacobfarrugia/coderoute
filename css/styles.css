@@ -21,6 +21,8 @@ body {
 	overflow-x: hidden;
 	line-height: 25px;
 	text-align: left;
+
+	xbackground: url('../images/backgrounds/bg_programmer.jpg') no-repeat;
 }
 
 /* Internet Explorer 10 in Windows 8 and Windows Phone 8 Bug fix */
@@ -149,7 +151,6 @@ h6 {
 	margin-top: 45px;
 }
 .button {
-	display: inline-block !important;
 	text-align: center;
 	text-transform: uppercase;
 	padding: 10px 35px 10px 35px;
@@ -225,7 +226,7 @@ a.btn-inline:hover{
  **   COLORS                         -----
 -----------------------------------------*/
 
-/** BACKGROUNDS **/
+/** BACKGROUND **/
 .red-bg {
 	background: #e96656;
 }
@@ -344,7 +345,7 @@ a.btn-inline:hover{
 -----------------------------------------*/
 
 .input-box {
-	border: 0;
+	xborder: 0;
 	width: 274px;
 	text-align: left;
 	text-transform: none;
@@ -356,7 +357,7 @@ a.btn-inline:hover{
 	background: rgba(255,255,255, 0.95);
 }
 .textarea-box {
-	border: 0;
+	xborder: 0;
 	text-align: left;
 	text-transform: none;
 	padding: 9px;
@@ -366,7 +367,7 @@ a.btn-inline:hover{
 	border-radius: 4px;
 	background: rgba(255,255,255, 0.95);
 }
- textarea:hover, 
+/* textarea:hover, 
 input:hover, 
 textarea:active, 
 input:active, 
@@ -379,7 +380,7 @@ input:focus {
   -webkit-box-shadow:none !important;
           box-shadow:none !important;
         }
-        
+        */
 textarea.error,        
 input.error {
     background: url(../assets/icon-fail.png) no-repeat right center #ffebef;
@@ -943,11 +944,21 @@ h3.intro{
 	background: #171717;
 	padding-bottom: 95px;
 }
+
+.application .input-box,textarea,
 .contact-us .input-box,textarea {
 	width: 100%;
 	margin: auto;
 	margin-bottom: 20px;
 }
+
+
+.application label{
+	xcolor:#fff;
+	font-weight: normal;
+	
+}
+
 .contact-us .custom-not-just-tech {
 	float: right;
 }
@@ -968,6 +979,29 @@ div.form-success {
 .success-msg{
 	margin-bottom:200px;
 }
+
+
+/*----------------------------------------
+ **   SECTION:  APPLICATION             -----
+-----------------------------------------*/
+
+#apply{
+	background: url('../images/backgrounds/bg_programmer.jpg');
+}
+
+
+.application .has-error input,
+.application .has-error textarea{
+	margin-bottom: 0;
+}
+
+
+.application .help-block{
+	margin-bottom: 10px;
+	margin-top: 0;
+	padding-left: 2px;
+}
+
 
 
 /* ----------------------------------------*/

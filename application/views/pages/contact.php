@@ -38,14 +38,13 @@
 	<div class="row">
 		<form role="form" action="<?=base_url();?>pages/enquiry" class="contact-form" method="post">
 			<?php if( validation_errors() ){ ?>
+			
+				<div class="form-error alert alert-danger">
+					<strong>Something's not quite right!</strong>
+					<?=validation_errors();?>
+				</div>	
 	
-		<div class="form-error alert alert-danger">
-			<strong>Something's not quite right!</strong>
-			<?=validation_errors();?>
-		</div>	
-	
-	
-	<? } ?>
+			<? } ?>
 			
 			<div>
 			<div class="col-lg-4 col-sm-4">

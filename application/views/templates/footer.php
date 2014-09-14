@@ -43,10 +43,10 @@ include "online.php";
 <script src="js/coderoute.js"></script>
 
 <?php 
-	if($page=='contact'){
+	if($page == ('contact' || 'apply')){
 ?>
 
-<script src="js/form-validator/jquery.form-validator.js"></script>
+<script src="xxxjs/form-validator/jquery.form-validator.js"></script>
 <script>
 	
 var $messages = $('#error-container');
@@ -54,7 +54,7 @@ var $messages = $('#error-container');
 $.validate({
   validateOnBlur : false, // disable validation when input looses focus
   scrollToTopOnError : true, // Set this property to true if you have a long form
-  errorMessagePosition : 'top',
+  // errorMessagePosition : 'top',
   
 });
 
