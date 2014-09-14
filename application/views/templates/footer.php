@@ -109,6 +109,14 @@ function gaOptout() {
 
   ga('create', 'UA-53130449-1', 'auto');
   ga('send', 'pageview');
+
+
+
+	<?php 
+	// event tracking for the applicaiton form
+	if(isset($enquiry_status) && ($enquiry_status) && $page=='apply'){ ?>
+			ga('send', 'pageview', 'form', 'applicaiton');
+	<? }?>
 </script>
 <?php } ?>
 
