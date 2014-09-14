@@ -27,10 +27,21 @@ class Pages extends CI_Controller {
 		
 		$this->data['title'] = ucfirst($page); // Capitalize the first letter
 	
-		$this->load->view('templates/header', $this->data);
-		$this->load->view('pages/'.$page, $this->data);
-		$this->load->view('templates/footer', $this->data);
 
+		$show_template = true;
+		if($page == 'apply'){
+			// $show_template = false;
+		}
+		
+		if($show_template){
+			$this->load->view('templates/header', $this->data);
+		}
+
+			$this->load->view('pages/'.$page, $this->data);
+		
+		if($show_template){
+			$this->load->view('templates/footer', $this->data);
+		}
 	}
 	
 	

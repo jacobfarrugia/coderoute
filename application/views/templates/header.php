@@ -56,7 +56,7 @@ include "online.php";
 <!-- JQUERY -->
  
 <?php if($online){ ?>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> 
 	<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 <?php }else{ ?> 
 	<script src="<?=base_url();?>js/jquery.min.js"></script>
@@ -67,9 +67,6 @@ include "online.php";
 
 <body>
 
-<!-- =========================
-   HOME SECTION       
-============================== -->
 <header id="<?=$page;?>" class="header">
 
 
@@ -102,7 +99,7 @@ include "online.php";
 				
 				<li >
 					<?php /* <a class="apply typeform-share link" href="https://coderoute.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a> */ ?>
-					<a class="apply typeform-share link" href="<?=base_url();?>apply" data-mode="2" target="_blank">Apply</a>
+					<a class="apply link" href="<?=base_url();?>apply" data-mode="2" target="_blank">Apply</a>
 				</li>
 			</ul>
 			</nav>
