@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'cust-mysql-123-20';
 $db['default']['username'] = 'coderoute';
 $db['default']['password'] = 'tajabi';
 $db['default']['database'] = 'coderoute';
