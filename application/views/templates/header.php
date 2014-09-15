@@ -99,7 +99,7 @@ include "online.php";
 				
 				<li >
 					<?php /* <a class="apply typeform-share link" href="https://coderoute.typeform.com/to/klqHXi" data-mode="2" target="_blank">Apply</a> */ ?>
-					<a class="apply link" href="<?=base_url();?>apply" data-mode="2" target="_blank">Apply</a>
+					<a class="apply link" href="<?=base_url();?>apply" data-mode="2" >Apply</a>
 				</li>
 			</ul>
 			</nav>
