@@ -465,6 +465,7 @@ div.form-error {
 	background: url('../images/backgrounds/bg_programmer.jpg');
 	background-position:top center;
 	min-height: 775px;
+	background-size: cover;
 }
 
 #home .intro{
