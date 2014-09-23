@@ -173,7 +173,7 @@ window._fbq.push(['track', '6018897841084', {'value':'0.01','currency':'GBP'}]);
 <div class="row">
 	<div class="col-md-2  question "></div>
 	<div class="col-md-2  question ">
-		<label>Do you have any relevenat technical experience?</label>
+		<label>Do you have any relevant technical experience?</label>
 	</div>
 	<div class="col-md-6">
 		<textarea name="experience" class="form-control textarea-box<?=form_error('experience') ? ' error ':'';?>" placeholder="I already know a little HTML & CSS..."  data-validation="length" data-validation-length="min4" data-validation-error-msg="If you don't have any experience, that's cool, just let us know"><?php echo set_value('experience'); ?></textarea>
