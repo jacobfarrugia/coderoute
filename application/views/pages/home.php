@@ -309,7 +309,7 @@
 		<div class="col-lg-3 col-sm-3 focus-box ">
 			<h5 class="green-border-bottom">Our Founders</h5>
 			<p>
-				Jake Farrugia has been working right at the heart of the tech scene for the last 16 years as a developer, consultant and CTO for a variety of start-ups, blue-chip financial organisations and multinationals. 
+				Jake Anderson has been working right at the heart of the tech scene for the last 16 years as a developer, consultant and CTO for a variety of start-ups, blue-chip financial organisations and multinationals. 
 			</p>
 				
 			<p>
